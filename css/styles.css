@@ -1,0 +1,23 @@
+#collapsable-nav ul li{
+  background-color: #dddddd;
+
+}
+#main{
+padding:20px;
+}
+#main div{
+  background-color: #dddddd;
+  padding:5px 15px 0px;
+  /*padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 5px;*/
+  height:1000px;
+  margin-bottom: 15px;
+
+}
+
+.divider{
+  border-top: 1px solid;
+  border-color: #bbbbbb;
+
+}
